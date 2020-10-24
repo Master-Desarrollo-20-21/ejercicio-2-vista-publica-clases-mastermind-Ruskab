@@ -1,3 +1,4 @@
+
 # ProgramacionOO Ejercicio2
 # Vista pública de las clases del juego Mastermind
 
