@@ -3,11 +3,11 @@ skinparam linetype polyline
 
 Class Mastermind {
     + play()
-    + resume()
-    + close()
 }
 
 Class Game {
+    + resume()
+    + close()
     + presentActualAttempt()
     + nextAttempt()
 }
